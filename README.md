@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kejenyun
+- 👋 Hi, I’m Maggie
 - 👀 I’m interested in ML
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding small games, data visualization
